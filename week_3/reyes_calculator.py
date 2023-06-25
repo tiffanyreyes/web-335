@@ -1,5 +1,9 @@
-# Exercise 3.3 - Calculator Program
-# Code referenced from https://www.w3schools.com/python/python_functions.asp
+#===========================================================================================
+#; Title: reyes-calculator.py
+#; Author: Tiffany Reyes
+#; Date: 17 June 2023
+#; Description:  
+#;==========================================================================================
 
 # This function adds x and y values.
 def add(x, y): 
